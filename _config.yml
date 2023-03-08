@@ -24,7 +24,7 @@ title: Nova.Corps                          # the main title
 tagline: Clan de warframe   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Pagina web del clan Nova.Corps de warframe.
+  Página web del clan Nova.Corps de Warframe. En esta página encontrarás guías para el juego.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://warframe-novacorps.github.io/'
@@ -54,7 +54,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-N0JH7CH9KD                # fill in your Google Analytics ID
+  id: G-DF4FSZSKH0                # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
