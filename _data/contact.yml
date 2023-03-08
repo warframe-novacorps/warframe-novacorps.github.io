@@ -1,8 +1,9 @@
 #  The contact options.
 
 -
-  type: github
-  icon: 'fab fa-github'
+  type: discord
+  icon: 'fab fa-discord'
+  url: 'https://discord.gg/NV28jMy'
 -
   type: twitter
   icon: 'fab fa-twitter'
